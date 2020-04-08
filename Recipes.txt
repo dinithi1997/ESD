@@ -4,6 +4,9 @@ pasta
 pizza
 
 
+beans
+tomato
+
 fried rice
 
 Thank You:)
